@@ -1,0 +1,6 @@
+[submodule "simba"]
+	path = simba
+	url = https://github.com/supakeen/simba
+[submodule "ext/simba"]
+	path = ext/simba
+	url = https://github.com/supakeen/simba
